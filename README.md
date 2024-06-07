@@ -11,7 +11,7 @@ Usage:
 
 
 
-2-python exploit.py <targetIPadress>
+2-python exploit.py Target IP
 
 
 
