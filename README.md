@@ -18,5 +18,9 @@ Usage:
 
 
 shodan Dork: title:"mySCADA"
+
+
 Google Dork: intitle:"mySCADA"
+
+
 https://t.me/rootdr_research Join to channel For more (:
